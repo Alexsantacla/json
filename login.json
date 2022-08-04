@@ -1,0 +1,13 @@
+{
+	"DatosDeLogin": {
+		"nombre": "juan carlos",
+		"apellido": "mora",
+		"edad": "34",
+		"sexo": "masculino",
+		"direccion": "florida 326",
+		"localidad": "mar del plata",
+		"provincia": "buenos aires",
+		"usuario": "jcmora",
+		"password": "oids@#88"
+	}
+}
